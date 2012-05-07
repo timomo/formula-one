@@ -1,4 +1,11 @@
 /*
+*	jQuery Plugin Page Slider
+*	Version 1.0
+*	Copyright (c) 2012 Ryuhei Shudo
+*	Dual licensed under the MIT and GPL licenses.
+*/
+
+/*
 * Useage
 */
 
@@ -38,3 +45,5 @@
 tartget : button classname. Default classname is '.psMenu'
 nav : menu id name. Default idname is '#psNav'
 speed : you can choose 3 range fast/normal/slow.
+
+enjoy!
