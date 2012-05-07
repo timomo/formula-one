@@ -1,0 +1,40 @@
+/*
+* Useage
+*/
+
+1. set button to slide like 
+<button class="psMenu">***</button>
+
+* default class name is psMenu.
+
+2. set slid navigation div like
+<div id="psNav" style="display:none;">
+  <ul id="**">
+  	<li>menu01</li>
+		<li>menu02</li>
+		<li>menu03</li>
+		<li>menu04</li>
+		<li>menu05</li>
+	</ul>
+</div>
+
+* you must set id in div tag.
+* default id name is psNav.
+* you must set styledisplay:none.
+
+3. set javascript like
+<script src="./jquery.f1Slider.min.js"></script>
+<script>
+	$(function(){
+		$.pSlider({
+			speed:'fast'
+		});
+	});
+</script>
+
+/*
+* Options
+*/
+tartget : button classname. Default classname is '.psMenu'
+nav : menu id name. Default idname is '#psNav'
+speed : you can choose 3 range fast/normal/slow.
