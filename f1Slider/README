@@ -18,11 +18,11 @@
 <div id="psNav" style="display:none;">
   <ul id="**">
   	<li>menu01</li>
-		<li>menu02</li>
-		<li>menu03</li>
-		<li>menu04</li>
-		<li>menu05</li>
-	</ul>
+	<li>menu02</li>
+	<li>menu03</li>
+	<li>menu04</li>
+	<li>menu05</li>
+  </ul>
 </div>
 
 * you must set id in div tag.
