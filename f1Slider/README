@@ -9,7 +9,7 @@
 * Useage
 */
 
-1. set button to slide like 
+1. set button to be slid like 
 <button class="psMenu">***</button>
 
 * default class name is psMenu.
