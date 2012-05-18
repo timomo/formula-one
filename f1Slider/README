@@ -33,7 +33,7 @@
 <script src="./jquery.f1Slider.min.js"></script>
 <script>
 	$(function(){
-		$.pSlider({
+		$.f1Slider({
 			speed:'fast'
 		});
 	});
